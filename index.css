@@ -65,8 +65,11 @@ body {
 p{
     margin: 20px;
 }
-.image_container{
-  margin: auto;}
+.image_container
+{
+        margin-right: 40px;
+        text-align: center;
+}
   
  .linkbutton {
         background: white;
