@@ -1,0 +1,93 @@
+h1{
+  text-align: center;
+  font-size: 2em;
+  font-family: Georgia;
+  color: MistyRose;
+}
+.welcome
+{
+   text-align: center;
+   font-weight: bold;
+   font-family: Georgia;
+   color: MistyRose;  
+}
+.intro
+{
+   text-align: center;
+ 
+   font-family: Georgia;
+   color: Pink;  
+}
+.topdiv
+{
+  border-top-style: solid;
+  border-color: MediumPurple;
+  border-bottom-style: solid;
+}
+body {
+  /*Background color for entire page*/
+  background-color: RebeccaPurple;
+}
+
+.prog
+{
+  font-family: Georgia;
+  color: RebeccaPurple;  
+  margin: 10px;
+  text-align: center;
+}
+.progli
+{
+  font-family: Georgia;
+  color: Purple;  
+}
+
+.works
+{
+  font-family: Georgia;
+  color: RebeccaPurple;  
+  margin: 10px;
+  text-align: center;
+}
+.worksli
+{
+  font-family: Georgia;
+  color: Purple;  
+}
+.container{
+        background: white;
+        color: black;
+        width: 50%;
+        border: 4px dotted MediumPurple;
+        border-radius: 15px;
+        margin: auto;
+}  
+p{
+    margin: 20px;
+}
+.image_container{
+  margin: auto;}
+  
+ .linkbutton {
+        background: white;
+        color: rebeccapurple;
+        width: 200px;
+        border: 4px dotted MediumPurple;
+        border-radius: 15px;
+        margin: auto;
+        font-family: Georgia;
+        font-weight: bold;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+a:link, a:visited {
+        color: RebeccaPurple;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+} 
